@@ -1,2 +1,2 @@
-# fms
-Financial Management System
+# spring-boot-project-framework
+spring-boot-project-framework
